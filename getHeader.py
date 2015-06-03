@@ -8,5 +8,3 @@ def getHeader(url):
 
 getHeader("http://zqktlwi4fecvo6ri.onion/wiki/Main_Page")
 
-
-dbConnect.execute("show tables");
