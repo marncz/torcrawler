@@ -1,4 +1,4 @@
-server = "server"
-user = "user"
-password = "password"
-database = "db"
+server = "localhost"
+user = "root"
+password = "chuj666"
+database = "torcrawler"
