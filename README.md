@@ -1,5 +1,5 @@
 # torcrawler
-Hidden service crawler for the Tor network
+Hidden service crawler for the Tor network, it uses mySQL to save results. 
 
 # Usage
 
